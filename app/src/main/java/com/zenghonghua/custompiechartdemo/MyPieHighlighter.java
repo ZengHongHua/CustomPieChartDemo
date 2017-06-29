@@ -6,7 +6,6 @@ import com.github.mikephil.charting.highlight.PieRadarHighlighter;
 import com.github.mikephil.charting.interfaces.datasets.IPieDataSet;
 
 /**
- * 包   名:     com.szcloud8.cloudbulter.view.dateview
  * 时   间:     2017/6/27 0027 11:47
  * 作   者:     zenghonghua
  */
