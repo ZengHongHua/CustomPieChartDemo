@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 饼图颜色-->
+    <color name="pie_1">#e20a33</color>
+    <color name="pie_2">#ff574f</color>
+    <color name="pie_3">#fd7a1d</color>
+    <color name="pie_4">#fdab29</color>
+    <color name="pie_5">#ffd132</color>
+    <color name="pie_6">#7ddf53</color>
+
+</resources>
