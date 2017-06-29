@@ -31,7 +31,6 @@ import java.lang.ref.WeakReference;
 import java.util.List;
 
 /**
- * 包   名:     com.szcloud8.cloudbulter.view.dateview
  * 时   间:     2017/6/27 0027 11:45
  * 作   者:     zenghonghua
  */
