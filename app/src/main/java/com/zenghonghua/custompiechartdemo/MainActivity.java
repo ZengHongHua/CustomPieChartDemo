@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
         dataSet.setYValuePosition(PieDataSet.ValuePosition.OUTSIDE_SLICE);
         dataSet.setXValuePosition(PieDataSet.ValuePosition.OUTSIDE_SLICE);//标签显示在外面，关闭显示在饼图里面
 
-        dataSet.setValueLineColor(0xff000000);  //设置指示线条颜色,必须设置才能和冰块颜色一致
+        dataSet.setValueLineColor(0xff000000);  //设置指示线条颜色,必须设置成这样，才能和饼图区域颜色一致
 
         PieData data = new PieData(dataSet);
         data.setValueFormatter(new PercentFormatter());
